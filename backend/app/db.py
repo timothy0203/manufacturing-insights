@@ -1,4 +1,4 @@
-# backend/app/db.py
+# backend/app/db.py 
 import sqlite3
 
 DB_PATH = "orders.db"
